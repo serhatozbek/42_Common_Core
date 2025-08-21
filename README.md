@@ -9,7 +9,7 @@ Merhaba! 👋 Bu sayfa, **42 Kocaeli**'deki eğitimim süresince tamamladığım
 </div>
 
 <br>
----
+
 <div align="center">
 
 | Proje Adı | Açıklama | Not |
