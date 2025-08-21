@@ -1,7 +1,7 @@
 # 42 Kocaeli Projelerim
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/42School/awesome-42/main/logo/42-logo.svg" alt="42 Logo" width="150"/>
+  <img src="/42_Logo.png" alt="42 Logo" width="150"/>
 </p>
 
 Merhaba! 👋 Bu sayfa, **42 Kocaeli**'deki eğitimim süresince tamamladığım projelerin bir portfolyosudur. Projelerin detaylarını incelemek için isimlerine tıklayabilirsiniz.
