@@ -22,6 +22,7 @@ Hello! 👋 This page is a portfolio of the projects I completed during my studi
 | **[Minitalk](https://github.com/serhatozbek/42_minitalk)** | Client-server communication using UNIX signals. | ✅ 125/100 |
 | **[push_swap](https://github.com/serhatozbek/42_push_swap)** | The most efficient sorting algorithm with a limited set of commands. | ✅ 90/100 |
 | **[so_long](https://github.com/serhatozbek/42_so_long)** | A simple 2D game developed with MiniLibX. | ✅ 100/100 |
+| **[minishell](https://github.com/serhatozbek/42_minishell)** | A custom implementation of a UNIX shell like bash. | ✅ 101/100 |
 
 </div>
 
