@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ecole 42 Projelerim
-
 <img src="/42_Logo.png" alt="42 Logo" width="150"/>
+
+# Ecole 42 Projelerim
 
 Merhaba! 👋 Bu sayfa, **42 Kocaeli**'deki eğitimim süresince tamamladığım projelerin bir portfolyosudur. Projelerin detaylarını incelemek için isimlerine tıklayabilirsiniz.
 
