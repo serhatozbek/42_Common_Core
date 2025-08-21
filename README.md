@@ -1,4 +1,4 @@
-# 42 Kocaeli Projelerim
+# Ecole 42 Projects
 
 <p align="center">
   <img src="/42_Logo.png" alt="42 Logo" width="150"/>
