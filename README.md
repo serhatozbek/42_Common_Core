@@ -9,6 +9,8 @@ Merhaba! 👋 Bu sayfa, **42 Kocaeli**'deki eğitimim süresince tamamladığım
 </div>
 
 <br>
+---
+<div align="center">
 
 | Proje Adı | Açıklama | Not |
 | :---: | :--- | :---: |
@@ -20,5 +22,7 @@ Merhaba! 👋 Bu sayfa, **42 Kocaeli**'deki eğitimim süresince tamamladığım
 | **[Minitalk](https://github.com/serhatozbek/42_minitalk)** | UNIX sinyalleri ile client-server iletişimi. | ✅ 125/100 |
 | **[push_swap](https://github.com/serhatozbek/42_push_swap)** | Kısıtlı komutlarla en verimli sıralama algoritması. | ✅ 90/100 |
 | **[so_long](https://github.com/serhatozbek/42_so_long)** | MiniLibX ile geliştirilmiş basit bir 2D oyun. | ✅ 100/100 |
+
+</div>
 
 ---
