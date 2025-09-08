@@ -25,6 +25,7 @@ Hello! 👋 This page is a portfolio of the projects I completed during my studi
 | **[Philosophers](https://github.com/serhatozbek/42_Philosophers)** | A C simulation of the classic Dining Philosophers problem, focused on thread synchronization and deadlock avoidance. | ✅ 100/100 |
 | **[minishell](https://github.com/serhatozbek/42_minishell)** | A custom implementation of a UNIX shell like bash. | ✅ 101/100 |
 | **[Cpp Module 00](https://github.com/serhatozbek/42_Cpp_Module__00)** | A foundational module for transitioning from C to C++, focusing on the basics of Object-Oriented Programming. | ✅ 80/100 |
+| **[Cpp Module 01](https://github.com/serhatozbek/42_Cpp_Module_01)** | A foundational module for transitioning from C to C++, focusing on the basics of Object-Oriented Programming. | ✅ 100/100 |
 </div>
 
 ---
